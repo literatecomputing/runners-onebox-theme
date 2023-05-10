@@ -1,0 +1,10 @@
+{
+  "name": "garmin-onebox-theme",
+  "version": "1.0.0",
+  "repository": "https://github.com/discourse/garmin-onebox-theme",
+  "author": "Discourse",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-config-discourse": "^3.2.0"
+  }
+}
